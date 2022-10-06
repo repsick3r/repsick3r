@@ -1,5 +1,9 @@
 <div align="left" markdown="2">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/repsick3r/count.svg" />
+</p>
 
 [![Hello](https://img.shields.io/static/v1?label=&message=Hi+there!&color=A7EA34)](https://github.com/repsick3r)
 <!---
